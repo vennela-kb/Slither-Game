@@ -99,15 +99,6 @@ python slither_game.py
 
 ---
 
-## 📜 License
-This project is released under the **MIT License**. Feel free to modify and distribute it.
-
----
-
-## 📥 Download
-Click [here](./slither_game.py) to download the game script.
-
----
 
 ## ✉️ Contact
 For any questions or suggestions, reach out to:
